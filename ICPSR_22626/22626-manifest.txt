@@ -1,0 +1,298 @@
+File Manifest for ICPSR 22626
+
+Desai, Sonalde, Reeve Vanneman, and National Council of Applied Economic
+Research, New Delhi. India Human Development Survey (IHDS), 2005.
+ICPSR22626-v8. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2010-06-29.
+http://doi.org/10.3886/ICPSR22626.v8
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-related_literature.txt        -       -         -       2014-08-08  -
+
+    22626-manifest.txt                  -       -         -       2014-08-09  -
+
+    22626-Documentation.pdf             -       -         -       2010-06-29  f90e53518e982a78f1f3754591b561d2
+
+    22626-Questionnaire-EdHealthLearnTests.pdf -       -         -       2009-08-25  f6b571190be9ac2731ae00de0dfeaa4e
+
+    22626-Questionnaire-Household.pdf   -       -         -       2009-08-25  b497f7ef407c127875e4c799309e6169
+
+
+DS0001 Individual
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0001-Codebook.pdf             -       -         -       2009-06-22  637f031d0fbb4aa00c5b46041a39bb11
+
+    22626-0001-Data.dta                 -       215,754   211     2009-06-22  3088666d2392401a425c2aa6e51a8e99
+
+    22626-0001-Data.sav                 -       215,754   211     2009-06-22  9d98622c2afdb2e52171c79ba3f2a56e
+
+    22626-0001-Data.stc                 -       215,754   211     2009-06-22  dad8b1d8bccdd236728e98bdcc9d1db6
+
+    22626-0001-Data.tsv                 -       215,754   211     2009-06-22  b42ddbba0d0a958804cbc7a54772b718
+
+    22626-0001-Data.txt                 643     215,754   211     2009-06-22  077a437d85679f2d4e48a53f430f6120
+
+    22626-0001-Documentation-orig-indiv_househ.pdf -       -         -       2010-05-04  968fbd339b603fce78735728c4955327
+
+    22626-0001-Setup.dct                -       -         -       2009-06-22  a085e70775ec35673539237cadf1d150
+
+    22626-0001-Setup.do                 -       -         -       2009-06-22  97bf1f8b5c9be4eaff1ab68f11feaa3f
+
+    22626-0001-Setup.sas                -       -         -       2009-06-22  0a2a0f333a753435f20d866644e8118c
+
+    22626-0001-Setup.sps                -       -         -       2009-06-22  291a7d22ee3d3e4fa5d48b78ef45fca1
+
+    22626-0001-Supplemental_syntax.do   -       -         -       2009-06-22  88fdb40eaf30e0c3cd3080ff8e3f1bf7
+
+    22626-0001-Supplemental_syntax.sas  -       -         -       2009-06-22  b0bd800bcd1a186e8fb8dabbf766445c
+
+
+DS0002 Household
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0002-Codebook.pdf             -       -         -       2013-06-17  9d0d8f72e423353e209fcab7860bacd5
+
+    22626-0002-Data.dta                 -       41,554    945     2013-06-17  df12a5cab6bd2b3b73648328afa30c90
+
+    22626-0002-Data.rda                 -       41,554    945     2013-06-17  f1dcf2bbda3344e593df7fc87a44f956
+
+    22626-0002-Data.sav                 -       41,554    945     2013-06-17  fba97bebec6f8a4758b755dec8626890
+
+    22626-0002-Data.stc                 -       41,554    945     2013-06-17  3f467d30eed04ee276fc625df6f183fe
+
+    22626-0002-Data.tsv                 -       41,554    945     2013-06-17  7bc1065942187dab865fd3d4474771fb
+
+    22626-0002-Data.txt                 2955    41,554    945     2013-06-17  f39e1b19ada2b83361974c8e59f673ad
+
+    22626-0002-Documentation-orig-indiv_househ.pdf -       -         -       2010-05-04  31ffc891544f372219293906f7d56375
+
+    22626-0002-Setup.dct                -       -         -       2013-06-17  eaf474885f9a13dd02c3d915dbb00352
+
+    22626-0002-Setup.do                 -       -         -       2013-06-17  a820ca5dd498f64db1ef4cf47d12cd0c
+
+    22626-0002-Setup.sas                -       -         -       2013-06-17  4070fa886725f8820f36653e81e03836
+
+    22626-0002-Setup.sps                -       -         -       2013-06-17  d07534ae9e7bf4ceef6a8934e8973139
+
+    22626-0002-Supplemental_syntax.do   -       -         -       2013-06-17  ae01dbaa78f826b58fa62d73a03567b1
+
+    22626-0002-Supplemental_syntax.sas  -       -         -       2013-06-17  43fe69f209fe521f21b7069dd2781f5d
+
+
+DS0003 Medical
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0003-Codebook.pdf             -       -         -       2009-06-22  635adae790e9e5edf880f083b8f2ef9a
+
+    22626-0003-Data.dta                 -       3,777     130     2009-06-22  3adfde9ddb94d8741538f6409e521413
+
+    22626-0003-Data.sav                 -       3,777     130     2009-06-22  e0bce7c10fcb417884d36a2f9ab0a215
+
+    22626-0003-Data.stc                 -       3,777     130     2009-06-22  46e3687fce696c692733f2ebfa965968
+
+    22626-0003-Data.tsv                 -       3,777     130     2009-06-22  8bb4ca61d03556e4e2f99e557390ea57
+
+    22626-0003-Data.txt                 286     3,777     130     2009-06-22  6b0847b49f76488443a825ab1c12802c
+
+    22626-0003-Questionnaire-Medical.pdf -       -         -       2009-08-25  d300d1289e9a844db5ac461fa95e6fef
+
+    22626-0003-Setup.dct                -       -         -       2009-06-22  72ddad24d96ce645a7712fe19e1b29f1
+
+    22626-0003-Setup.do                 -       -         -       2009-06-22  85ee948aba592cc914f5309b42e000d5
+
+    22626-0003-Setup.sas                -       -         -       2009-06-22  0e366cc578aad3d0ea8e0821ec43d6f7
+
+    22626-0003-Setup.sps                -       -         -       2009-06-22  5afc6495c13547717ac5efc8b4d214f6
+
+    22626-0003-Supplemental_syntax.do   -       -         -       2009-06-22  6199e393291afbf6f77f23e1c966cd1e
+
+    22626-0003-Supplemental_syntax.sas  -       -         -       2009-06-22  4eb4b8b3b0e88effc796c24a104329a6
+
+
+DS0004 Non-Resident
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0004-Codebook.pdf             -       -         -       2009-06-22  602405778177ca42230e7766a1e3e28e
+
+    22626-0004-Data.dta                 -       4,761     25      2009-06-22  765fae2ffdbe64f63bbc2c10a831de2c
+
+    22626-0004-Data.sav                 -       4,761     25      2009-06-22  7f3da998c960f64ca2bda3ca8f900013
+
+    22626-0004-Data.stc                 -       4,761     25      2009-06-22  059f26731bdcc5d0e5eec8d219b40c93
+
+    22626-0004-Data.tsv                 -       4,761     25      2009-06-22  9e89d024b3075fa7df5ebbd8eab2bb22
+
+    22626-0004-Data.txt                 55      4,761     25      2009-06-22  1dd11889dc0c80a85846d7adee91fdc5
+
+    22626-0004-Setup.dct                -       -         -       2009-06-22  f9b63eb5ae238087f5a818b6f5672d88
+
+    22626-0004-Setup.do                 -       -         -       2009-06-22  155d5ad3e55d5b40e4f285f0f52c397f
+
+    22626-0004-Setup.sas                -       -         -       2009-06-22  cb8bbaf4c9ba98389904e6d016321ae6
+
+    22626-0004-Setup.sps                -       -         -       2009-06-22  b647874d297c34ca76660c603c1c5a35
+
+    22626-0004-Supplemental_syntax.do   -       -         -       2009-06-22  d223200debe3b8d1ad8b44837a2c24b4
+
+    22626-0004-Supplemental_syntax.sas  -       -         -       2009-06-22  58e2edb5b29b45da395ea62ab001a49c
+
+
+DS0005 Primary School
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0005-Codebook.pdf             -       -         -       2009-06-22  4cdd65854cdce3434a5ff5794da00cb7
+
+    22626-0005-Data.dta                 -       3,782     102     2009-06-22  db4921adb65f40b5ccd893076ea606e4
+
+    22626-0005-Data.sav                 -       3,782     102     2009-06-22  8e1cf836f2ed9dd3186111c3fb6ecb76
+
+    22626-0005-Data.stc                 -       3,782     102     2009-06-22  ce7df948779432ec597945cf01c4798b
+
+    22626-0005-Data.tsv                 -       3,782     102     2009-06-22  f94d8566f9d0c9ebd2d8ab4d01f8d73e
+
+    22626-0005-Data.txt                 427     3,782     102     2009-06-22  1976e015e91fd112d0fdc81ab7e4b36c
+
+    22626-0005-Questionnaire-PrimarySchool.pdf -       -         -       2009-08-25  8c6eec8eca5714370732411bbf9d6c0d
+
+    22626-0005-Setup.dct                -       -         -       2009-06-22  749be7033320fb0ee985b51882dcb043
+
+    22626-0005-Setup.do                 -       -         -       2009-06-22  7ca4d290a0d8b374cff5097a42713a07
+
+    22626-0005-Setup.sas                -       -         -       2009-06-22  0c3a3e0cd74007560e02103973c81982
+
+    22626-0005-Setup.sps                -       -         -       2009-06-22  e391994a43b56bfb977bf2d64b3125c6
+
+    22626-0005-Supplemental_syntax.do   -       -         -       2009-06-22  7cb79868db1be036fbc7ae198d8d0113
+
+    22626-0005-Supplemental_syntax.sas  -       -         -       2009-06-22  8d2fa13fcc54b53fae0ed7332a50b1c6
+
+
+DS0006 Birth History
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0006-Codebook.pdf             -       -         -       2009-06-22  52ac962e34ab4a4e4c4a6657c396f8ae
+
+    22626-0006-Data.dta                 -       93,820    32      2009-06-22  364c970b6af7f4fbad741bd25a1a45bc
+
+    22626-0006-Data.sav                 -       93,820    32      2009-06-22  ba66ce430ee8dd37c2dcc7adb2683f76
+
+    22626-0006-Data.stc                 -       93,820    32      2009-06-22  e6ac66f465c54d465efa1416bf06419b
+
+    22626-0006-Data.tsv                 -       93,820    32      2009-06-22  b0c18e96a9e2c2d7c048f872355c9185
+
+    22626-0006-Data.txt                 97      93,820    32      2009-06-22  61378b24abd59ce2dd812ea936fa15a2
+
+    22626-0006-Setup.dct                -       -         -       2009-06-22  6d58af997229c0b48a76276c60ea47cc
+
+    22626-0006-Setup.do                 -       -         -       2009-06-22  aacede9952dbc0e713743aa660b66fbc
+
+    22626-0006-Setup.sas                -       -         -       2009-06-22  bba31f0c74e4bcb4a24c90b01dda1db2
+
+    22626-0006-Setup.sps                -       -         -       2009-06-22  c433e01d66b166551b4632cf221a8079
+
+    22626-0006-Supplemental_syntax.do   -       -         -       2009-06-22  9331c48d8490bceb5c6da4913745bf07
+
+    22626-0006-Supplemental_syntax.sas  -       -         -       2009-06-22  ade96829d4d4ebb1370fca3e3ad4364c
+
+
+DS0007 Village
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0007-Codebook.pdf             -       -         -       2010-02-17  172ee705a88c6dfd259096b6953a519a
+
+    22626-0007-Data.dta                 -       1,501     378     2010-02-17  d6afc66f9a3e29327f625ea3c6c3b89d
+
+    22626-0007-Data.sav                 -       1,501     378     2010-02-17  9ae03e7947b1add641e15618af310085
+
+    22626-0007-Data.stc                 -       1,501     378     2010-02-17  d87bd2b88b055ec3e0322837b6327a2f
+
+    22626-0007-Data.tsv                 -       1,501     378     2010-02-17  167889839afa2cb60dc653911cf6f00a
+
+    22626-0007-Data.txt                 1040    1,501     378     2010-02-17  5255e82b9814039df2bc892310934023
+
+    22626-0007-Documentation-orig_village.pdf -       -         -       2010-05-04  71ca39ce68095ab244447893317c756a
+
+    22626-0007-Questionnaire.pdf        -       -         -       2010-05-04  939744ac6b33650052e9a67c3d5556db
+
+    22626-0007-Setup.dct                -       -         -       2010-02-17  974d511c1a4df4ab46838faba395da2e
+
+    22626-0007-Setup.do                 -       -         -       2010-02-17  9695305691d190e3aa4d71504ca336c3
+
+    22626-0007-Setup.sas                -       -         -       2010-02-17  0695a408da2ae2d2cdd1c535cb4856d4
+
+    22626-0007-Setup.sps                -       -         -       2010-02-17  2e92aa9a63d2db61d30eec0d74700842
+
+    22626-0007-Supplemental_syntax.do   -       -         -       2010-02-17  e5b9e82a227b9bfd42913da5f077fbd1
+
+    22626-0007-Supplemental_syntax.sas  -       -         -       2010-02-17  4f479de73eac8bebc544cc5b4374a373
+
+
+DS0008 Crops
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22626-0008-Codebook.pdf             -       -         -       2010-02-17  1e906f1b08a3e702613bb60decfc2bf7
+
+    22626-0008-Data.dta                 -       40,772    21      2010-02-17  2ab4885cfd79a097109c9096150a7eff
+
+    22626-0008-Data.sav                 -       40,772    21      2010-02-17  8f6d563ef5af02298409a3665577f204
+
+    22626-0008-Data.stc                 -       40,772    21      2010-02-17  ecbe35ab9a6d99ca5b127ad200df11e9
+
+    22626-0008-Data.tsv                 -       40,772    21      2010-02-17  bd0da27af6d9a1f90e504a902aaf9ab0
+
+    22626-0008-Data.txt                 88      40,772    21      2010-02-17  7e6300c66536bf693519297ba5104db7
+
+    22626-0008-Setup.dct                -       -         -       2010-02-17  b6e1ea2a033fd2f9ac32b09833c346fb
+
+    22626-0008-Setup.do                 -       -         -       2010-02-17  c967f4d727c8c77dc76575471f708880
+
+    22626-0008-Setup.sas                -       -         -       2010-02-17  30e1f55f35fa88fb8de56969d04805a5
+
+    22626-0008-Setup.sps                -       -         -       2010-02-17  ff3d48ccfc19610b14efe9a12f8bf983
+
+    22626-0008-Supplemental_syntax.do   -       -         -       2010-02-17  a5e74ee3b534172c4e853e2b808637a2
+
+    22626-0008-Supplemental_syntax.sas  -       -         -       2010-02-17  96aa7fd98293520448747dc659f6d522
+
+
+Version History
+
+2013-06-17 The Household data (Part 2) were updated to add the following
+eight variables that had been mistakenly omitted from the dataset: NWORK,
+NFARM, NANIMAL, NAGWAGE, NNONAG, NSALARY, NBUSINESS, and INCOTHER. The
+Household data codebook was also updated.  2010-06-29 Additional
+documentation file has been added.  2010-05-04 Additional documentation
+files have been added.  2010-03-25 At the principal investigator's request,
+an ID variable was removed.  2010-02-17 Added village-level and crop data
+as new parts  2009-08-25 Added updated versions of the Medical and Primary
+School questionnaires.  2009-06-22 Added updated versions of the Household
+and the Individual datasets, and added Medical, Non-Resident, School, and
+Birth History datasets.  2009-02-10 Added the original questionnaires that
+were used during data collection.  2008-12-11 At the principal
+investigator's request, an ID variable was removed and the citation was
+updated  2008-08-22 The title for Part 1 has been revised and response rate
+information has been added.
